@@ -1,0 +1,828 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "firstName": "Vi",
+      "lastName": "Nguyễn Thị Hà",
+      "email": "havi@gmail.com",
+      "password": "12345678",
+      "imgUrl": "https://anhdep123.com/wp-content/uploads/2021/02/anh-gai-mang.jpg",
+      "role": "Nhân Viên",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "position_id": "epl",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng"
+    },
+    {
+      "id": 2,
+      "firstName": "Lương",
+      "lastName": "Trần Hữu",
+      "email": "luongtran@gmail.com",
+      "password": "12345678",
+      "imgUrl": "https://scontent-hkg4-1.xx.fbcdn.net/v/t1.6435-9/35407432_1700232523425097_3176969785384632320_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=E1mz9EyIj1sAX-2pM-O&_nc_ht=scontent-hkg4-1.xx&oh=00_AT9O1Cgk_Xc3Qf70TA_Ztu4JUTwfLZwsxf6Ko88jOCgjpg&oe=620B29CA",
+      "role": "Nhân Viên",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "position_id": "epl",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng"
+    },
+    {
+      "id": 3,
+      "firstName": "Dũng",
+      "lastName": "Nguyễn Sỹ",
+      "email": "sydung@gmail.com",
+      "password": "12345678",
+      "imgUrl": "https://scontent.fdad3-5.fna.fbcdn.net/v/t1.6435-9/131983622_1764246023751239_4482106337413797845_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=t5Aa75zMCkAAX-qSYy3&_nc_ht=scontent.fdad3-5.fna&oh=00_AT9GcHtDP_VIrNPgCKGFHWNM44kdYyHitN8HPOruZN1wPg&oe=620E8D8D",
+      "role": "Trưởng Phòng",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "position_id": "depart",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng"
+    },
+    {
+      "id": 4,
+      "firstName": "Dung",
+      "lastName": "Dương Thị Thùy",
+      "email": "thuydung@gmail.com",
+      "password": "12345678",
+      "imgUrl": "https://scontent.fdad3-1.fna.fbcdn.net/v/t1.6435-1/p200x200/151778157_1539984789525563_4813197712401079979_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=7206a8&_nc_ohc=yQ0q9IPQHJkAX8BoyZu&_nc_ht=scontent.fdad3-1.fna&oh=00_AT_Sjs2FHQDOiabeaFKJBLk8quNr4H80m4Qm0O11xdUzxA&oe=620E17AE",
+      "role": "Nhân Viên",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "position_id": "epl",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng"
+    },
+    {
+      "id": 5,
+      "firstName": "Hiếu",
+      "lastName": "Võ Trung",
+      "email": "hieuvo@gmail.com",
+      "password": "12345678",
+      "imgUrl": "https://scontent.fdad3-3.fna.fbcdn.net/v/t39.30808-6/260544044_1234598287031408_1119554743030111798_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=2Ag0Uer5dg8AX_TOvAZ&_nc_ht=scontent.fdad3-3.fna&oh=00_AT8UDm9JWcB7okzVW7W4WAgIuoSvFFIzauCab7-SoeUa3w&oe=61EC42A0",
+      "role": "Nhân Viên",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "position_id": "epl",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng"
+    },
+    {
+      "id": 6,
+      "firstName": "Trang",
+      "lastName": "Võ Thi Thuy",
+      "email": "k2@gmail.com",
+      "password": "12345678",
+      "imgUrl": "https://scontent.fdad3-1.fna.fbcdn.net/v/t39.30808-6/259978483_705412190844718_5264589813258642514_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=79524b&_nc_ohc=1o3W_51onwsAX8Pq7XK&_nc_ht=scontent.fdad3-1.fna&oh=00_AT-Fgw70jXqBAz0MhuH0CKjSqass1tMEyFsELBnbbveMVw&oe=61EC7B60",
+      "role": "Trưởng Phòng",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "position_id": "depart",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng"
+    },
+    {
+      "firstName": "Chi",
+      "lastName": "Nguyễn Mai",
+      "email": "maichi08@gmail.com",
+      "password": "12345678",
+      "imgUrl": "https://scontent.fdad3-1.fna.fbcdn.net/v/t1.6435-9/126864550_2745689675652635_8035739956935531249_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=MJxBTES939YAX_jpa8g&_nc_ht=scontent.fdad3-1.fna&oh=00_AT-MJoT8b67XPeJnFEUnqozEKV6bGRsllV2jTZ590vgUog&oe=62100CC9",
+      "role": "Trưởng Phòng",
+      "position_id": "depart",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng",
+      "id": 7
+    },
+    {
+      "firstName": "Vi",
+      "lastName": "Nguyễn Lê",
+      "email": "levi123",
+      "password": "1234",
+      "imgUrl" :"",
+      "role": "",
+      "position_id": "",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng",
+      "id": 8
+    },
+    {
+      "firstName": "Tuấn",
+      "lastName": "Hồ Lê Anh",
+      "email": "anhtuan@gmail.com",
+      "password": "12345678",
+      "imgUrl" :"",
+      "role": "Nhân Viên",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng",
+      "position_id": "epl",
+      "id": 9
+    },
+    {
+      "firstName": "Yên",
+      "lastName": "Phạm Hoàng",
+      "email": "hoangyen@gmail.com",
+      "password": "12345678",
+      "imgUrl" :"",
+      "role": "Nhân Viên",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng",
+      "position_id": "epl",
+      "id": 10
+    },
+    {
+      "firstName": "Đức",
+      "lastName": "Nguyễn Hữu",
+      "email": "huuduc@gmail.com",
+      "password": "12345678",
+      "imgUrl" :"",
+      "role": "Nhân Viên",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng",
+      "position_id": "epl",
+      "id": 11
+    },
+    {
+      "firstName": "Trung",
+      "lastName": "Võ Duy",
+      "email": "huuduc@gmail.com",
+      "password": "12345678",
+      "imgUrl" :"",
+      "role": "Nhân Viên",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng",
+      "position_id": "epl",
+      "id": 12
+    },
+    {
+      "firstName": "Sơn",
+      "lastName": "Trịnh Duy",
+      "email": "duyson@gmail.com",
+      "password": "12345678",
+      "imgUrl" :"",
+      "role": "Nhân Viên",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng",
+      "position_id": "epl",
+      "id": 13
+    },
+    {
+      "firstName": "Huy",
+      "lastName": "Thái Văn",
+      "email": "vanhuy@gmail.com",
+      "password": "12345678",
+      "imgUrl" :"",
+      "role": "Nhân Viên",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng",
+      "position_id": "epl",
+      "id": 14
+    },
+    {
+      "firstName": "Thành",
+      "lastName": "Nguyễn Văn",
+      "email": "vanthanh@gmail.com",
+      "password": "12345678",
+      "imgUrl" :"",
+      "role": "Nhân Viên",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng",
+      "position_id": "epl",
+      "id": 15
+    },
+    {
+      "firstName": "Khải",
+      "lastName": "Mai Văn",
+      "email": "vankhai@gmail.com",
+      "password": "12345678",
+      "imgUrl" :"",
+      "role": "Nhân Viên",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng",
+      "position_id": "epl",
+      "id": 16
+    },
+    {
+      "firstName": "Phong",
+      "lastName": "Đinh Hồng",
+      "email": "hongphong@gmail.com",
+      "password": "12345678",
+      "imgUrl" :"",
+      "role": "Nhân Viên",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng",
+      "position_id": "epl",
+      "id": 17
+    },
+    {
+      "firstName": "Việt",
+      "lastName": "Nguyễn Duy",
+      "email": "duyviet@gmail.com",
+      "password": "12345678",
+      "imgUrl" :"",
+      "role": "Nhân Viên",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng",
+      "position_id": "epl",
+      "id": 18
+    },
+    {
+      "firstName": "Đạt",
+      "lastName": "Nguyễn Ngọc Tiến",
+      "email": "tiendat@gmail.com",
+      "password": "12345678",
+      "imgUrl" :"",
+      "role": "Nhân Viên",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng",
+      "position_id": "epl",
+      "id": 19
+    },
+    {
+      "firstName": "Diệu",
+      "lastName": "Trương Quang",
+      "email": "quangdieu@gmail.com",
+      "password": "12345678",
+      "imgUrl" :"",
+      "role": "Nhân Viên",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng",
+      "position_id": "epl",
+      "id": 20
+    },
+    {
+      "firstName": "Tiến",
+      "lastName": "Nguyễn Tân",
+      "email": "tiennguyen@gmail.com",
+      "password": "12345678",
+      "imgUrl": "https://scontent.fdad3-4.fna.fbcdn.net/v/t31.18172-8/29060052_107261353454011_5911763762069294837_o.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_ohc=Vqqs0RSFRdwAX9pBWFN&_nc_ht=scontent.fdad3-4.fna&oh=00_AT8zmmQQXHZ4t-WZL9pi0P6EEyy_1n3B8t8YWG3kqxqVNw&oe=620C1C4B",
+      "role": "Nhân Viên",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng",
+      "position_id": "epl",
+      "id": 21
+    },
+    {
+      "firstName": "Trân",
+      "lastName": "Võ Ngọc",
+      "email": "ngoctran@gmail.com",
+      "password": "12345678",
+      "imgUrl" :"",
+      "role": "",
+      "position_id": "",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng",
+      "id": 22
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "test1@gmail.com",
+      "password": "12345678",
+      "imgUrl" :"",
+      "role": "Trưởng Phòng",
+      "position_id": "",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng",
+      "id": 23
+    },
+    {
+      "firstName": "Anh",
+      "lastName": "Quách Hoàng",
+      "email": "hoanganh@gmail.com",
+      "password": "12345678",
+      "imgUrl" :"https://scontent.fdad3-1.fna.fbcdn.net/v/t1.15752-9/s1080x2048/78858369_1442128819285677_8231317561656999936_n.png?_nc_cat=110&ccb=1-5&_nc_sid=ae9488&_nc_ohc=SQj_R-5lacIAX-e_4-Y&_nc_ht=scontent.fdad3-1.fna&oh=03_AVJJ61xYSsIH4d37GTLIlZpLZZ7LuntAk9Vdjl0WsV5vYw&oe=62112C52",
+      "role": "Nhân Viên",
+      "position_id": "",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng",
+      "id": 24
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "vanvu@gmail.com",
+      "password": "12345678",
+      "imgUrl" :"",
+      "role": "Giám đốc CSVC",
+      "position_id": "",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng",
+      "id": 25
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "test123",
+      "password": "12345678",
+      "imgUrl" :"",
+      "role": "Nhân Viên",
+      "position_id": "",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng",
+      "id": 26
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "test1234",
+      "password": "12345678",
+      "imgUrl" :"",
+      "role": "Giám đốc CSVC",
+      "position_id": "",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng",
+      "id": 27
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "qwe123",
+      "password": "12345678",
+      "imgUrl" :"",
+      "role": "Admin",
+      "position_id": "",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng",
+      "id": 28
+    },
+    {
+      "firstName": "Thắng",
+      "lastName": "Nguyễn Vũ Quốc",
+      "email": "quocthang@gmail.com",
+      "password": "12345678",
+      "imgUrl" :"https://scontent.fdad3-5.fna.fbcdn.net/v/t1.15752-9/p1080x2048/57387322_417532595472990_1216186213963137024_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=ae9488&_nc_ohc=41hOIkVl-6wAX9ISG8-&_nc_ht=scontent.fdad3-5.fna&oh=03_AVKso6pNoAej9o2C-T7fxsbxdIW874cpbQ_hp1MdwCrUtA&oe=62101772",
+      "role": "Nhân Viên",
+      "position_id": "epl",
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "address": "Phường Mỹ An, Quận Ngũ Hành Sơn, Thành Phố Đà Nẵng",
+      "id": 29
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "depart_id": "MTK2",
+      "depart_name": "Phòng Marketing",
+      "depart_address": "Phòng 101"
+    },
+    {
+      "id": 2,
+      "depart_id": "SL2",
+      "depart_name": "Phòng Sales",
+      "depart_address": "Phòng 102"
+    },
+    {
+      "id": 3,
+      "depart_id": "HR3",
+      "depart_name": "Phòng Nhân Sự",
+      "depart_address": "Phòng 103"
+    },
+    {
+      "id": 4,
+      "depart_id": "KT4",
+      "depart_name": "Phòng Kế Toán",
+      "depart_address": "Phòng 104"
+    },
+    {
+      "id": 5,
+      "depart_id": "KT5",
+      "depart_name": "Phòng Kiểm Toán",
+      "depart_address": "Phòng 105"
+    },
+    {
+      "id": 6,
+      "depart_id": "KD6",
+      "depart_name": "Phòng Kinh Doanh",
+      "depart_address": "Phòng 201"
+    },
+    {
+      "id": 7,
+      "depart_id": "CNTT7",
+      "depart_name": "Phòng Công Nghệ Thông Tin",
+      "depart_address": "Phòng 202"
+    },
+    {
+      "id": 8,
+      "depart_id": "CSKH8",
+      "depart_name": "Phòng CSKH",
+      "depart_address": "Phòng 203"
+    },
+    {
+      "id": 9,
+      "depart_id": "CSVC9",
+      "depart_name": "Phòng Cơ Sở Vật Chất",
+      "depart_address": "Phòng 204"
+    }
+  ],
+  "facilities": [
+    {
+      "id": 1,
+      "facilities_id": "Lt01",
+      "title": "Laptop",
+      "price": 1500000,
+      "qty": 10,
+      "image": "xxx",
+      "innitiated_date": "12/01/2020",
+      "email": "tranluong@gmail.com"
+    },
+    {
+      "id": 2,
+      "facilities_id": "Mi01",
+      "title": "Máy In",
+      "price": 500000,
+      "qty": 20,
+      "image": "xxx",
+      "innitiated_date": "12/05/2020",
+      "email": "sydung@gmail.com"
+    },
+    {
+      "id": 3,
+      "facilities_id": "Pc01",
+      "title": "Máy Tính Để Bàn",
+      "price": 500000,
+      "qty": 20,
+      "image": "xxx",
+      "innitiated_date": "12/03/2020",
+      "email": "thuydung@gmail.com"
+    },
+    {
+      "id": 4,
+      "facilities_id": "Mcp20",
+      "title": "Máy chiếu panasonic",
+      "price": 2000000,
+      "qty": 20,
+      "image": "xxx",
+      "innitiated_date": "20/01/2020",
+      "email": "hieuvo@gmail.com"
+    },
+    {
+      "id": 5,
+      "facilities_id": "Mq220",
+      "title": "Máy Quạt",
+      "price": 200000,
+      "qty": 50,
+      "image": "xxx",
+      "innitiated_date": "12/01/2021",
+      "email": "tranluong@gmail.com"
+    },
+    {
+      "id": 6,
+      "facilities_id": "Mcb110",
+      "title": "Máy Chiếu BeenQ",
+      "price": 2000000,
+      "qty": 50,
+      "image": "xxx",
+      "innitiated_date": "12/12/2021",
+      "email": "tranluong@gmail.com"
+    },
+    {
+      "id": 7,
+      "facilities_id": "Mcb110",
+      "title": "Máy Chiếu Mini EPSON",
+      "price": 2000000,
+      "qty": 50,
+      "image": "xxx",
+      "innitiated_date": "21/08/2020",
+      "email": "tranluong@gmail.com"
+    },
+    {
+      "id": 8,
+      "facilities_id": "Mcxm110",
+      "title": "Máy Chiếu Xiaomi",
+      "price": 2000000,
+      "qty": 50,
+      "image": "xxx",
+      "innitiated_date": "20/01/2020",
+      "email": "hieuvo@gmail.com"
+    },
+    {
+      "id": 9,
+      "facilities_id": "Table09",
+      "title": "Bàn Gỗ",
+      "price": 200000,
+      "qty": 50,
+      "image": "xxx",
+      "innitiated_date": "30/08/2020",
+      "email": "hieuvo@gmail.com"
+    },
+    {
+      "id": 10,
+      "facilities_id": "Chair10",
+      "title": "Ghế",
+      "price": 200000,
+      "qty": 50,
+      "image": "xxx",
+      "innitiated_date": "22/9/2020",
+      "email": "sydung@gmail.com"
+    }
+  ],
+  "position": [
+    {
+      "id": 1,
+      "position_id": "epl",
+      "role": "Nhân viên"
+    },
+    {
+      "id": 2,
+      "position_id": "depart",
+      "role": "Trưởng phòng "
+    },
+    {
+      "id": 3,
+      "position_id": "dir",
+      "role": "Giám đốc cơ vở vật chất"
+    }
+  ],
+  "payment": [
+    {
+      "id": 1,
+      "Payment_ID": "01",
+      "email": "tranluong@gmail.com",
+      "firstName": "Lương",
+      "amount": 12000000,
+      "position_id": "epl",
+      "description": "Lương tháng 2",
+      "innitiated_date": "15/2/2021"
+    },
+    {
+      "id": 2,
+      "Payment_ID": "02",
+      "email": "sydung@gmail.com",
+      "firstName": "Dũng",
+      "amount": 12000000,
+      "position_id": "epl",
+      "description": "Lương tháng 2",
+      "innitiated_date": "15/2/2021"
+    },
+    {
+      "id": 3,
+      "Payment_ID": "03",
+      "email": "thuydung@gmail.com",
+      "firstName": "Dung",
+      "amount": 12000000,
+      "position_id": "epl",
+      "description": "Lương tháng 2",
+      "innitiated_date": "15/2/2021"
+    },
+    {
+      "id": 4,
+      "Payment_ID": "04",
+      "email": "hieuvo@gmail.com",
+      "firstName": "Hiếu",
+      "amount": 12000000,
+      "position_id": "epl",
+      "description": "Lương tháng 2",
+      "innitiated_date": "15/2/2021"
+    },
+    {
+      "id": 5,
+      "Payment_ID": "05",
+      "email": "cason@gmail.com",
+      "firstName": "cason",
+      "amount": 17000000,
+      "position_id": "depart",
+      "description": "Lương tháng 2",
+      "innitiated_date": "15/2/2021"
+    },
+    {
+      "id": 6,
+      "Payment_ID": "06",
+      "email": "k2@gmail.com",
+      "firstName": "Tuấn",
+      "amount": 15000000,
+      "position_id": "dir",
+      "description": "Lương tháng 2",
+      "innitiated_date": "15/2/2021"
+    },
+    {
+      "id": 7,
+      "Payment_ID": "07",
+      "email": "k3@gmail.com",
+      "firstName": "Hương",
+      "amount": 17000000,
+      "position_id": "depart",
+      "description": "Lương tháng 2",
+      "innitiated_date": "15/2/2021"
+    },
+    {
+      "id": 8,
+      "Payment_ID": "08",
+      "email": "k4@gmail.com",
+      "firstName": "Tâm",
+      "amount": 16000000,
+      "position_id": "depart",
+      "description": "Lương tháng 2",
+      "innitiated_date": "15/2/2021"
+    },
+    {
+      "id": 9,
+      "Payment_ID": "09",
+      "email": "k5@gmail.com",
+      "firstName": "Mai",
+      "amount": 12000000,
+      "position_id": "epl",
+      "description": "Lương tháng 2",
+      "innitiated_date": "15/2/2021"
+    },
+    {
+      "id": 10,
+      "Payment_ID": "10",
+      "email": "k6@gmail.com",
+      "firstName": "Nga",
+      "amount": 12000000,
+      "position_id": "epl",
+      "description": "Lương tháng 2",
+      "innitiated_date": "15/2/2021"
+    }
+  ],
+  "user": [
+    {
+      "id": 2,
+      "email": "luongtran@gmail.com",
+      "password": "12345678",
+      "role": "Admin"
+    },
+    {
+      "id": 3,
+      "email": "sydung@gmail.com",
+      "password": "12345678",
+      "role": "Admin"
+    },
+    {
+      "id": 4,
+      "email": "thuydung@gmail.com",
+      "password": "12345678",
+      "role": "Admin"
+    },
+    {
+      "id": 5,
+      "email": "hieuvo@gmail.com",
+      "password": "12345678",
+      "role": "Giám đốc CSVC"
+    },
+    {
+      "id": 6,
+      "email": "cason@gmail.com",
+      "password": "12345678",
+      "role": "Trưởng Phòng"
+    },
+    {
+      "email": "havi@gmail.com",
+      "password": "12345678",
+      "role": "Nhân Viên",
+      "id": 7
+    },
+    {
+      "email": "k2@gmail.com",
+      "password": "12345678",
+      "role": "director",
+      "id": 8
+    },
+    {
+      "email": "maichi08@gmail.com",
+      "password": "12345678",
+      "role": "Nhân Viên",
+      "id": 9
+    },
+    {
+      "email": "anhtuan@gmail.com",
+      "password": "12345678",
+      "role": "Trưởng Phòng",
+      "id": 10
+    },
+    {
+      "email": "hoangyen@gmail.com",
+      "password": "12345678",
+      "role": "Trưởng Phòng",
+      "id": 11
+    },
+    {
+      "email": "huuduc@gmail.com",
+      "password": "12345678",
+      "role": "Trưởng Phòng",
+      "id": 12
+    },
+    {
+      "email": "duyson@gmail.com",
+      "password": "12345678",
+      "role": "Trưởng Phòng",
+      "id": 13
+    },
+    {
+      "email": "vanhuy@gmail.com",
+      "password": "12345678",
+      "role": "Trưởng Phòng",
+      "id": 14
+    },
+    {
+      "email": "vanthanh@gmail.com",
+      "password": "12345678",
+      "role": "Nhân Viên",
+      "id": 15
+    },
+    {
+      "email": "vankhai@gmail.com",
+      "password": "12345678",
+      "role": "Nhân Viên",
+      "id": 16
+    },
+    {
+      "email": "hongphong@gmail.com",
+      "password": "12345678",
+      "role": "Nhân Viên",
+      "id": 17
+    },
+    {
+      "email": "duyviet@gmail.com",
+      "password": "12345678",
+      "role": "Nhân Viên",
+      "id": 18
+    },
+    {
+      "email": "tiendat@gmail.com",
+      "password": "12345678",
+      "role": "Nhân Viên",
+      "id": 19
+    },
+    {
+      "email": "quangdieu@gmail.com",
+      "password": "12345678",
+      "role": "Nhân Viên",
+      "id": 20
+    },
+    {
+      "email": "tiennguyen@gmail.com",
+      "password": "12345678",
+      "role": "Nhân Viên",
+      "id": 21
+    },
+    {
+      "email": "maichi@gmail.com",
+      "password": "12345678",
+      "role": "Nhân Viên",
+      "id": 22
+    },
+    {
+      "email": "ngoctran@gmail.com",
+      "password": "12345678",
+      "role": "Nhân Viên",
+      "id": 23
+    },
+    {
+      "email": "hoanganh@gmail.com",
+      "password": "12345678",
+      "role": "Nhân Viên",
+      "id": 26
+    },
+    {
+      "email": "test123",
+      "password": "12345678",
+      "role": "Nhân Viên",
+      "id": 27
+    },
+    {
+      "email": "test1234",
+      "password": "12345678",
+      "role": "Giám đốc CSVC",
+      "id": 28
+    },
+    {
+      "email": "qwe123",
+      "password": "123456789",
+      "role": "Admin",
+      "id": 29
+    },
+    {
+      "email": "thuyvy@gmail.com",
+      "password": "12345678",
+      "role": "Giám đốc CSVC",
+      "id": 30
+    },
+    {
+      "email": "quocthang@gmail.com",
+      "password": "12345678",
+      "role": "Nhân Viên",
+      "id": 31
+    }
+  ]
+}
